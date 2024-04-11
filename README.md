@@ -1,4 +1,4 @@
-### HEADPHONEZONE
+[### HEADPHONEZONE
 Headphonezone is an open source web project where user can View, search, and order headphones by making payment through their profile/account. To bring the Headphones market online and all of its function. It will automate most of the human work which is hard and can be time consuming, reducing the burden. Bring the consumers and vendors closers, and increase the e-business and motivate more people to use the e-business in their business works. 
 
 **Contributors:**
@@ -160,3 +160,4 @@ https://docs.google.com/document/d/1GLr6PXN7jMEMp-_oQ93qi6hvXrsVbcle/edit?usp=sh
 https://drive.google.com/file/d/1pcodfSb5DizNzye--HEs3F0ZzGgT8ves/view?usp=sharing 
 
 For more information about the project please refer the PDF file attached.
+](http://www.futureproject.shop/Headphonezone)
